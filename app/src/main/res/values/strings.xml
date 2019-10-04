@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="login_CAP">LOGIN</string>
+    <string name="user_name">UserName</string>
+    <string name="password">Password</string>
+    <string name="login_sml">Login</string>
+</resources>
